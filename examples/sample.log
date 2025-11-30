@@ -1,0 +1,30 @@
+2025-11-30 10:15:23 [INFO] Server started on port 8080
+2025-11-30 10:16:45 [WARNING] Failed password for admin from 192.168.1.100 port 22 ssh2
+2025-11-30 10:17:12 [WARNING] Failed password for root from 192.168.1.100 port 22 ssh2
+2025-11-30 10:17:45 [WARNING] Failed password for admin from 192.168.1.100 port 22 ssh2
+2025-11-30 10:18:23 [ERROR] SQL query error: SELECT * FROM users WHERE id=1 UNION SELECT password FROM admin
+2025-11-30 10:19:01 [INFO] User login successful: john@example.com
+2025-11-30 10:20:15 [WARNING] Suspicious request detected: GET /../../etc/passwd HTTP/1.1
+2025-11-30 10:21:33 [ERROR] XSS attempt blocked: <script>alert('XSS')</script>
+2025-11-30 10:22:47 [WARNING] Port scan detected from 10.0.0.50 on ports 80, 443, 8080
+2025-11-30 10:23:12 [ERROR] 403 Forbidden: Access denied to /admin/config
+2025-11-30 10:24:56 [WARNING] Failed password for user from 192.168.1.101 port 22 ssh2
+2025-11-30 10:25:34 [INFO] Database backup completed successfully
+2025-11-30 10:26:18 [ERROR] Malware signature detected: trojan.generic.12345
+2025-11-30 10:27:42 [WARNING] Multiple failed login attempts from 192.168.1.100
+2025-11-30 10:28:09 [ERROR] Command injection attempt: ; rm -rf /
+2025-11-30 10:29:23 [INFO] System health check passed
+2025-11-30 10:30:45 [WARNING] Unauthorized access attempt to /api/admin
+2025-11-30 10:31:12 [ERROR] SQL injection detected: DROP TABLE users--
+2025-11-30 10:32:56 [WARNING] SYN flood detected from 10.0.0.50 port 80
+2025-11-30 10:33:21 [INFO] Cache cleared successfully
+2025-11-30 10:34:47 [ERROR] Path traversal attempt: ../../../windows/system32
+2025-11-30 10:35:13 [WARNING] Failed password for admin from 192.168.1.100 port 22 ssh2
+2025-11-30 10:36:28 [INFO] User logout: john@example.com
+2025-11-30 10:37:54 [ERROR] XSS payload detected: javascript:alert(document.cookie)
+2025-11-30 10:38:19 [WARNING] Brute force attack detected from 192.168.1.100
+2025-11-30 10:39:42 [INFO] Scheduled task executed successfully
+2025-11-30 10:40:15 [ERROR] 401 Unauthorized: Invalid credentials
+2025-11-30 10:41:33 [WARNING] Port scan from 10.0.0.50 targeting port 3306
+2025-11-30 10:42:08 [INFO] API request processed: GET /api/users
+2025-11-30 10:43:27 [ERROR] Ransomware activity detected in /home/user/documents
