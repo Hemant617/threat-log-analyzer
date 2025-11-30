@@ -1,6 +1,18 @@
 # 🛡️ Threat Log Analyzer
 
-A powerful Python-based security tool for analyzing system logs, detecting threats, and generating comprehensive security reports with real-time monitoring capabilities.
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Security](https://img.shields.io/badge/Security-Tool-red.svg)
+
+**A powerful Python-based security tool for analyzing system logs, detecting threats, and generating comprehensive security reports with real-time monitoring capabilities.**
+
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Documentation](#-documentation) • [Author](#-author)
+
+</div>
+
+---
 
 ## ✨ Features
 
@@ -203,16 +215,39 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## 👨‍💻 Author
+
+**Hemant Kaushal**
+
+- 🔐 Cybersecurity Analyst | SOC Operations | Incident Response
+- 📧 Email: hemuh877@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/hemantkaushal](https://linkedin.com/in/hemantkaushal)
+- 💻 GitHub: [@Hemant617](https://github.com/Hemant617)
+- 📱 Phone: +91 96342 22262
+
+### 🎓 Certifications
+- Deloitte Cyber Job Simulation (Forage)
+- Deloitte Data Analytics Job Simulation (Forage)
+- Cisco Introduction to Cybersecurity
+
+### 🚀 Other Projects
+- [VirusTotal Automated Scanner](https://github.com/Hemant617/virustotal-automated-scanner)
+- [View All Projects](https://github.com/Hemant617)
+
 ## 🙏 Acknowledgments
 
 - Built with Python 3
 - Uses watchdog for file monitoring
 - Inspired by modern SIEM solutions
 
-## 📧 Contact
-
-For questions or support, please open an issue on GitHub.
-
 ---
 
+<div align="center">
+
 **⚠️ Disclaimer**: This tool is for educational and authorized security testing purposes only. Always ensure you have permission before analyzing logs or monitoring systems.
+
+**⭐ If you find this project useful, please consider giving it a star!**
+
+Made with ❤️ by [Hemant Kaushal](https://github.com/Hemant617)
+
+</div>
