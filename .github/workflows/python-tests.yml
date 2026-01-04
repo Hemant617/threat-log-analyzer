@@ -5,6 +5,9 @@ on:
     branches: [ main, develop ]
   pull_request:
     branches: [ main ]
+  # Scheduled tests disabled - enable when needed
+  # schedule:
+  #   - cron: '0 0 * * 0'  # Weekly on Sunday
 
 jobs:
   test:
